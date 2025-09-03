@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+sentence-transformers
+transformers
+torch
+sentencepiece
+scikit-learn
