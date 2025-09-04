@@ -1,6 +1,6 @@
 import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
-from summarizer_judge import load_summarizers, generate_summaries
+from summarizer import load_summarizers, generate_summaries
 from judge import judge_summary
 
 # Load models once
